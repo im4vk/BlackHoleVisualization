@@ -1,4 +1,5 @@
 # Black Hole Simulation and Visualization
+![BH](./black_hole_shadow.png)
 
 A comprehensive Python implementation of black hole physics based on Einstein's General Relativity, featuring ray tracing through curved spacetime and realistic image generation.
 
